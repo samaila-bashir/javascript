@@ -1,7 +1,10 @@
 # gitignore
 
 node_modules
+temp_auto_push.bat
 
 # Only apps should have lockfiles
 yarn.lock
 package-lock.json
+.gitignore
+branch_structure.json
